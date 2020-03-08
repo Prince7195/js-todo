@@ -2,6 +2,7 @@
     A CRUD operation javascript web app.
 
 ### Procedure to use this code:
-    1. git clone https://github.com/Prince7195/js-todo.git
-    2. open the index.html.
-    3. code JavaScript in index.js file.
+    1. click "clone or download" and download project by clicking "Download ZIP".
+    2. unzip "js-todo-master" and rename the extracted folder to "js-todo".
+    3. open the index.html in js-todo project.
+    4. code JavaScript in index.js file.
